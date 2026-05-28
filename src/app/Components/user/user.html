@@ -1,0 +1,17 @@
+<h1>User Details:-</h1>
+<ul>
+    @for (item of getdetail(); track item.id) {
+        <ul>
+            <li>
+                Id:{{item.id}}
+            </li>
+            <li>
+                Title:{{item.title}}
+            </li>
+            <li>
+                Price:{{item.price}}
+            </li>
+        </ul>
+        <hr>
+    }
+</ul>

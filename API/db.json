@@ -1,0 +1,8 @@
+{
+  "users":[
+    {"id":1,"name":"vivek","roll":102213},
+    {"id":2,"name":"anil","roll":101213},
+    {"id":3,"name":"ronit","roll":105213},
+    {"id":4,"name":"laksh","roll":109213}
+  ]
+}
