@@ -1,5 +1,5 @@
 import { Component, signal } from '@angular/core';
-import {userDetails,product,GetdetailsService} from'testing-lib'
+import {product,GetdetailsService} from'testing-lib'
 @Component({
   selector: 'app-user',
   standalone:true,
